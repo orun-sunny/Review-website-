@@ -1,7 +1,22 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/ProgrammingHeroWC4/review-website-orun-sunny).
 
+
+# Getting Started with Create React App
+
+# Getting Started with Create React App
+
+Here is the link of deployment  [Check Live Demo](https://keen-bardeen-1e9fb8.netlify.app/).
+
+## About project
+ Its a function base react practice application. where i try to fatch all data of teaches and show all teachers and its details about teachers, you can search with one keyword
+### functionalists of it
+- exploring useState
+- exploring useEffect
+- one directional data flow using props
+- data destructuring
+- onClick funtion handler and update state
 ## Available Scripts
 
 In the project directory, you can run:

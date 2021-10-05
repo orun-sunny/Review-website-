@@ -1,0 +1,270 @@
+{
+  "instructor": [
+    {
+      "gender": "male",
+      "name": "Mahabub",
+      "location": {
+        "street": "dhanmondi",
+        "city": "dhaka"
+      },
+      "email": "mh@example.com",
+      "login": {
+        "username": "silver131",
+        "password": "firewall",
+        "id": "mah121"
+      },
+      "phone": "011-000-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/notice/alumni1.png"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    },
+    {
+      "gender": "female",
+      "name": "Shaila rahman",
+      "location": {
+        "street": "elephant road",
+        "city": "dhaka"
+      },
+      "email": "Bi@example.com",
+      "login": {
+        "username": "silverbati131",
+        "password": "firewall",
+        "id": "emp132"
+      },
+      "phone": "011-962-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/faculties/shaila.jpeg"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    },
+    {
+      "gender": "male",
+      "name": " Bright sir ",
+      "location": {
+        "street": "mirpur new road",
+        "city": "dhaka"
+      },
+      "email": "rb@example.com",
+      "login": {
+        "username": "silverswan131",
+        "password": "firewall",
+        "id": "Br143"
+      },
+      "phone": "011-962-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/faculties/4.png"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    },
+    {
+      "gender": "male",
+      "name": "Ahmed Hamim",
+      "location": {
+        "street": "mirpur new road",
+        "city": "dhaka"
+      },
+      "email": "sah@example.com",
+      "login": {
+        "username": "silverswan131",
+        "password": "firewall",
+        "id": "ham152"
+      },
+      "phone": "011-962-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/faculties/9_EcyOjMM.png"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    },
+    {
+      "gender": "male",
+      "name": "Akhtaruzzaman adnan",
+      "location": {
+        "street": "mohammadpur new road",
+        "city": "dhaka"
+      },
+      "email": "ak@example.com",
+      "login": {
+        "username": "silverswan131",
+        "password": "firewall",
+        "id": "ad192"
+      },
+      "phone": "011-962-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/faculties/11.png"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    },
+    {
+      "gender": "male",
+      "name": "Jahir ibna Rafiq",
+      "location": {
+        "street": "Badda road",
+        "city": "dhaka"
+      },
+      "email": "jht@example.com",
+      "login": {
+        "username": "silverswan131",
+        "password": "firewall",
+        "id": "wmp172"
+      },
+      "phone": "011-962-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/faculties/rsz_42245251_1756652547765726_2108522075512635392_n_adobespark.jpeg"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    },
+    {
+      "gender": "male",
+      "name": "Dr. Muhammad Towfiqur Rahman",
+      "location": {
+        "street": "gulshan road",
+        "city": "dhaka"
+      },
+      "email": "brad@example.com",
+      "login": {
+        "username": "silverswan131",
+        "password": "firewall",
+        "id": "cmp122"
+      },
+      "phone": "011-962-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/faculties/rsz_42245251_1756652547765726_2108522075512635392_n_adobespark.jpeg"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    },
+    {
+      "gender": "male",
+      "name": "Dr. A S M Touhidul Hasan",
+      "location": {
+        "street": "9 mirpur road",
+        "city": "dhaka"
+      },
+      "email": "brad@example.com",
+      "login": {
+        "username": "silverswan131",
+        "password": "firewall",
+        "id": "dmp182"
+      },
+      "phone": "011-962-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/faculties/Dr_Towfiq.jpg"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    },
+    {
+      "gender": "Female",
+      "name": "Tanjina Helaly",
+      "location": {
+        "street": "mirpur new road",
+        "city": "dhaka"
+      },
+      "email": "brad@example.com",
+      "login": {
+        "username": "silverswan131",
+        "password": "firewall",
+        "id": "hmp192"
+      },
+      "phone": "011-962-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/faculties/3.png"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    },
+    {
+      "gender": "male",
+      "name": "Nadeem Ahmed",
+      "location": {
+        "street": "banani road",
+        "city": "dhaka"
+      },
+      "email": "br@example.com",
+      "login": {
+        "username": "silverswan131",
+        "password": "firewall",
+        "id": "imp102"
+      },
+      "phone": "011-962-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/faculties/rsz_latest.jpg"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    },
+    {
+      "gender": "male",
+      "name": "Abdullah Al Omar",
+      "location": {
+        "street": "banani road",
+        "city": "dhaka"
+      },
+      "email": "brad@example.com",
+      "login": {
+        "username": "silverswan131",
+        "password": "firewall",
+        "id": "zmp122"
+      },
+      "phone": "011-962-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/faculties/rsz_latest.jpg"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    },
+    {
+      "gender": "male",
+      "name": "S M Rafiuddin Rifat",
+      "location": {
+        "street": "banani new road",
+        "city": "dhaka"
+      },
+      "email": "b@example.com",
+      "login": {
+        "username": "silverswan131",
+        "password": "firewall",
+        "id": "jmp123"
+      },
+      "phone": "011-962-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/faculties/7.png"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    },
+    {
+      "gender": "male",
+      "name": "Fahad khan",
+      "location": {
+        "street": "badda road",
+        "city": "dhaka"
+      },
+      "email": "b@example.com",
+      "login": {
+        "username": "silverswan131",
+        "password": "firewall",
+        "id": "kmp122"
+      },
+      "phone": "011-962-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/faculties/17_1.png"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    },
+    {
+      "gender": "male",
+      "name": "Hasan Murad",
+      "location": {
+        "street": "mipur new road",
+        "city": "kilcoole"
+      },
+      "email": "brad@example.com",
+      "login": {
+        "username": "silverswan131",
+        "password": "firewall",
+        "id": "lmp122"
+      },
+      "phone": "011-962-7516",
+      "picture": {
+        "thumbnail": "https://cse.uap-bd.edu/media/faculties/14.png"
+      },
+      "paper": "Cybersecurity awareness survey: An analysis from Bangladesh perspective"
+    }
+  ]
+}

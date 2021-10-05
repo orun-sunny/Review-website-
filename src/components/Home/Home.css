@@ -1,0 +1,24 @@
+.banner-container {
+    background-image: url("https://preview.colorlib.com/theme/onlineedu/assets/img/hero/xh1_hero.png.pagespeed.ic.zYWh9M9JhP.png"),
+      linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    height: 780px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .title {
+    color: white;
+    font-weight: bold;
+    font-size: 59px;
+  }
+  .about-btn {
+    background-color: #031e94;
+    outline: none;
+    border: none;
+    padding: 17px 34px;
+    color: white;
+    animation-delay: 0.8s;
+  }

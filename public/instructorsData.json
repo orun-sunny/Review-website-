@@ -1,0 +1,86 @@
+[
+  {
+    "id": "mah121",
+    "name": "Mahabub",
+    "designation": "Senior faculty",
+    "image": "https://cse.uap-bd.edu/media/notice/alumni1.png"
+  },
+  {
+    "id": "emp132",
+    "name": "Shaila rahman",
+    "designation": "Advisor",
+    "image": "https://cse.uap-bd.edu/media/faculties/shaila.jpeg"
+  },
+  {
+    "id": "Br143",
+    "name": "Bright sir ",
+    "designation": "senior advisor",
+    "image": "https://cse.uap-bd.edu/media/faculties/4.png"
+  },
+  {
+    "id": "ham152",
+    "name": "Ahmed Hamim",
+    "designation": "Assistant Professor",
+    "image": "https://cse.uap-bd.edu/media/faculties/9_EcyOjMM.png"
+  },
+  {
+    "id": "ad192",
+    "name": "Akhtaruzzaman adnan",
+    "designation": "Assistant Professor",
+    "image": "https://cse.uap-bd.edu/media/faculties/11.png"
+  },
+  {
+    "id": "wmp172",
+    "name": "Jahir ibna Rafiq",
+    "designation": "Assistant Teacher",
+    "image": "https://cse.uap-bd.edu/media/faculties/rsz_42245251_1756652547765726_2108522075512635392_n_adobespark.jpeg"
+  },
+  {
+    "id": "cmp122",
+    "name": " Dr. Muhammad Towfiqur Rahman",
+    "designation": "lecturer",
+    "image": "https://cse.uap-bd.edu/media/faculties/Dr_Towfiq.jpg"
+  },
+  {
+    "id": "dmp182",
+    "name": "Dr. A S M Touhidul Hasan",
+    "designation": "Assistant Professor",
+    "image": "https://cse.uap-bd.edu/media/faculties/16.png"
+  },
+  {
+    "id": "hmp192",
+    "name": "Tanjina Helaly",
+    "designation": "Assistant Professor",
+    "image": "https://cse.uap-bd.edu/media/faculties/3.png"
+  },
+  {
+    "id": "imp102",
+    "name": "Nadeem Ahmed",
+    "designation": "Assistant Professor",
+    "image": "https://cse.uap-bd.edu/media/faculties/rsz_latest.jpg"
+  },
+  {
+    "id": "zmp122",
+    "name": "Abdullah Al Omar",
+    "designation": "Lecturer",
+    "image": "https://cse.uap-bd.edu/media/faculties/7.png"
+  },
+  {
+    "id": "jmp123",
+    "name": "S M Rafiuddin Rifat",
+    "designation": "Lecturer",
+    "image": "https://cse.uap-bd.edu/media/faculties/6.png"
+  },
+  {
+    "id": "kmp122",
+    "name": "Fahad khan",
+    "designation": " lecturer",
+    "image": "https://cse.uap-bd.edu/media/faculties/17_1.png"
+  },
+  {
+    "id": "lmp122",
+    "name": "Hasan Murad",
+    "designation": "Lecturer",
+    "image": "https://cse.uap-bd.edu/media/faculties/14.png"
+  }
+]
